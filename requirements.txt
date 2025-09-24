@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+jupyterlab>=4.0
+
+# Optional (only if you plan to export notebook to HTML)
+# nbconvert>=7.10
