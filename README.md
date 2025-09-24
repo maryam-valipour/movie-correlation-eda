@@ -42,7 +42,7 @@ This will place `movies.csv` in the `data/` folder.
 
 ```
 .
-├─ Movie-Correlation-Project.ipynb   # polished notebook (main)
+├─ Movie-Correlation-EDA.ipynb   # polished notebook (main)
 ├─ README.md
 ├─ requirements.txt
 ├─ data/
